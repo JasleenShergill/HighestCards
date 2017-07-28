@@ -10,7 +10,7 @@ using System.Threading.Tasks;
  * Version: 0.4  new Deck class
  */
 
-namespace Cards
+namespace ConsoleApplication1
 {
     class Program
     {

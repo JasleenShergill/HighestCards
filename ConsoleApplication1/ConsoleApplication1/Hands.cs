@@ -9,7 +9,7 @@ using System.Text;
  * Description:  Lesson 11
  * Version: 0.3 -  Deck class
  */
-namespace Cards
+namespace ConsoleApplication1
 {
     public class Hand : CardList
     {
